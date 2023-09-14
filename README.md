@@ -1,6 +1,8 @@
 # Windows-Auto-Shutdown-Timer-0.7-CMD
+
 Using Windows Command Prompt CMD Scripting
 Currently, only Traditional Chinese is supported.
+
 === Automatic shutdown timer 0.7===
 **Script Purpose**
 This script is used to set and start the automatic shutdown timer, allowing you to shut down or restart the computer within a specific time, or automatically shut down the computer when a specific process is closed, and enter the computer's BIOS settings.
@@ -25,3 +27,12 @@ Since the script involves shutting down the computer, make sure you run it as a 
    You can go here to view the source code.
    URL: ( https://drive.google.com/drive/folders/1H4j1XSlP_V8c3JCyQCiLPvoAAonBuTlw?usp=sharing )
   === Please execute the script after ensuring safety ===
+
+To use the script, please follow these steps:
+
+1. Run the script as Administrator.
+2. Select the function you want to execute.
+3. Enter the necessary parameters.
+
+This script is safe to use. It only performs setting and timing operations and will not cause damage to the system or steal your personal information.
+However, please make sure you get the script from a reliable source and check its contents before executing it.
