@@ -36,3 +36,5 @@ To use the script, please follow these steps:
 
 This script is safe to use. It only performs setting and timing operations and will not cause damage to the system or steal your personal information.
 However, please make sure you get the script from a reliable source and check its contents before executing it.
+
+Demonstration on how to run this script https://youtu.be/aA4jFVeXdxg
