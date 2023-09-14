@@ -38,3 +38,23 @@ This script is safe to use. It only performs setting and timing operations and w
 However, please make sure you get the script from a reliable source and check its contents before executing it.
 
 Demonstration on how to run this script https://youtu.be/aA4jFVeXdxg
+
+Automatic shutdown timer 0.7 download use: .zip format
+
+1. Google Drive  (Since Google does not allow me to upload .exe type files, this link does not have an .exe executable file)
+https://drive.google.com/drive/folders/1H4j1XSlP_V8c3JCyQCiLPvoAAonBuTlw?usp=sharing
+Compressed file password: no encryption
+
+2.Baidu Cloud (you need to apply for an account to download)
+https://pan.baidu.com/s/1kz8E4a9aKGmVK1cpVL719A
+Extraction code: mdwc
+Compressed file password: SOv0tndsLCFn7
+
+3.dropbox Drive
+https://www.dropbox.com/scl/fi/gaqxw8p1szkwzki8lwtsh/0.7.zip?rlkey=283p88l46l152wjjzxlbertag&dl=0
+Compressed file password: SOv0tndsLCFn7
+
+4.mega Drive
+https://mega.nz/file/OTxDWbAJ
+encryption key encryption key: uZIyEYVXeyaCQZLE3bK1HFXjyowM_TuK9FTFOjlk6hU
+Compressed file password: SOv0tndsLCFn7
