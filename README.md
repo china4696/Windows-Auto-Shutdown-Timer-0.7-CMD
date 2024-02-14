@@ -46,9 +46,7 @@ https://drive.google.com/drive/folders/1H4j1XSlP_V8c3JCyQCiLPvoAAonBuTlw?usp=sha
 Compressed file password: no encryption
 
 2.Baidu Cloud (you need to apply for an account to download)
-https://pan.baidu.com/s/1kz8E4a9aKGmVK1cpVL719A
-Extraction code: mdwc
-Compressed file password: SOv0tndsLCFn7
+URL has been deleted
 
 3.dropbox Drive
 https://www.dropbox.com/scl/fi/gaqxw8p1szkwzki8lwtsh/0.7.zip?rlkey=283p88l46l152wjjzxlbertag&dl=0
