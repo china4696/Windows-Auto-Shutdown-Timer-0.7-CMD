@@ -1,9 +1,5 @@
 
 
-# If you see garbled characters, please ensure the file is opened with the UTF-16 LE encoding format. 
-# The original code uses Big5 encoding, not UTF-8.
-#
-# If you view the file of this code and see garbled characters, it means that your Unicode encoding format is wrong. The Unicode encoding format of the original code is UTF-16 LE, not UTF-8.
 
 
 # Windows-自動關機-定時器-0.8-CMD
@@ -42,6 +38,11 @@
 1. 以管理員身分執行腳本。
 2. 選擇您要執行的功能。
 3. 輸入必要的參數。
+# If you see garbled characters, please ensure the file is opened with the UTF-16 LE encoding format. 
+# The original code uses Big5 encoding, not UTF-8.
+#
+# If you view the file of this code and see garbled characters, it means that your Unicode encoding format is wrong. The Unicode encoding format of the original code is UTF-16 LE, not UTF-8.
+
 
 該腳本可以安全使用。它僅執行設定和計時操作，不會對系統造成損壞或竊取您的個人資訊。
 但是，請確保您從可靠的來源獲取腳本並在執行之前檢查其內容。
