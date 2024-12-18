@@ -1,58 +1,49 @@
-# Windows-Auto-Shutdown-Timer-0.7-CMD
 
-Using Windows Command Prompt CMD Scripting
-Currently, only Traditional Chinese is supported.
 
-=== Automatic shutdown timer 0.7===
-**Script Purpose**
-This script is used to set and start the automatic shutdown timer, allowing you to shut down or restart the computer within a specific time, or automatically shut down the computer when a specific process is closed, and enter the computer's BIOS settings.
+# If you see garbled characters, please ensure the file is opened with the UTF-16 LE encoding format. 
+# The original code uses Big5 encoding, not UTF-8.
+#
+# If you view the file of this code and see garbled characters, it means that your Unicode encoding format is wrong. The Unicode encoding format of the original code is UTF-16 LE, not UTF-8.
+
+
+# Windows-自動關機-定時器-0.8-CMD
+
+使用 Windows 命令提示字元 CMD 腳本
+目前僅支援繁體中文。
+
+===自動關機定時器0.7===
+**腳本目的**
+該腳本用於設定和啟動自動關機定時器，可讓您在特定時間內關閉或重新啟動計算機，或在特定進程關閉時自動關閉計算機，並進入計算機的BIOS設定。
 -------------------------------------------------- --------------------------
-**Implementation Requirements**
-Please make sure to run this script as Administrator as it requires access to the ability to shut down the computer.
+**實施要求**
+請確保以管理員身份執行此腳本，因為它需要存取關閉電腦的能力。
 -------------------------------------------------- --------------------------
-There are five functions in total
-1. Shut down the computer regularly
-2. Restart the computer regularly
-3. Close the shutdown command that has been executed in CMD or Powershell.
-4. Automatically shut down the computer when a specific process is detected to be closed.
-5. Enter the computer’s BIOS settings
+總共有 6 個功能
+1.定期關閉電腦
+2.定期重開機
+3. 關閉CMD或Powershell中已執行的關機指令。
+4.當偵測到特定進程關閉時自動關閉電腦。
+5. 輸入計算機的BIOS設定
+6. 倒數計時執行CMD指令，(使用此功能必需小心，請不要隨意執行來路不明的指令，嚴重的話可能會損壞你的系統，軟件預設為「以系統管理員身份執行指令」)
 -------------------------------------------------- --------------------------
-=== IMPORTANT NOTE ===
-**System administrator rights**
-Since the script involves shutting down the computer, make sure you run it as a system administrator.
-**Script Security**
-1. This script itself is safe. It only performs setting and timing operations and will not cause damage to the system or steal your personal information.
-2. However, make sure you get the script from a reliable source and check its contents before executing it.
-3. If you are a professional programmer or have a good understanding of Cmd command prompt characters, you need to view the source code.
-   You can go here to view the source code.
-   URL: ( https://drive.google.com/drive/folders/1H4j1XSlP_V8c3JCyQCiLPvoAAonBuTlw?usp=sharing )
-  === Please execute the script after ensuring safety ===
+===重要提示===
+**系統管理員權限**
+由於該腳本涉及關閉計算機，因此請確保以系統管理員身份運行它。
+**腳本安全**
+1.這個腳本本身是安全的。它僅執行設定和計時操作，不會對系統造成損壞或竊取您的個人資訊。
+2. 但是，請確保從可靠的來源獲取腳本並在執行之前檢查其內容。
+3.如果您是專業程式設計師或對Cmd命令提示字元字元有很好的了解，則需要查看原始程式碼。
+ 您可以到這裡查看原始程式碼。
+ 網址：( https://github.com/china4696/Windows-Auto-Shutdown-Timer-0.7-CMD )
+ ===請確保安全後執行腳本===
 
-To use the script, please follow these steps:
+若要使用該腳本，請依照下列步驟操作：
 
-1. Run the script as Administrator.
-2. Select the function you want to execute.
-3. Enter the necessary parameters.
+1. 以管理員身分執行腳本。
+2. 選擇您要執行的功能。
+3. 輸入必要的參數。
 
-This script is safe to use. It only performs setting and timing operations and will not cause damage to the system or steal your personal information.
-However, please make sure you get the script from a reliable source and check its contents before executing it.
+該腳本可以安全使用。它僅執行設定和計時操作，不會對系統造成損壞或竊取您的個人資訊。
+但是，請確保您從可靠的來源獲取腳本並在執行之前檢查其內容。
 
-Demonstration on how to run this script https://youtu.be/aA4jFVeXdxg
-
-Automatic shutdown timer 0.7 download use: .zip format
-
-1. Google Drive  (Since Google does not allow me to upload .exe type files, this link does not have an .exe executable file)
-https://drive.google.com/drive/folders/1H4j1XSlP_V8c3JCyQCiLPvoAAonBuTlw?usp=sharing
-Compressed file password: no encryption
-
-2.Baidu Cloud (you need to apply for an account to download)
-URL has been deleted
-
-3.dropbox Drive
-https://www.dropbox.com/scl/fi/gaqxw8p1szkwzki8lwtsh/0.7.zip?rlkey=283p88l46l152wjjzxlbertag&dl=0
-Compressed file password: SOv0tndsLCFn7
-
-4.mega Drive
-https://mega.nz/file/OTxDWbAJ
-encryption key encryption key: uZIyEYVXeyaCQZLE3bK1HFXjyowM_TuK9FTFOjlk6hU
-Compressed file password: SOv0tndsLCFn7
+有關如何執行此腳本的示範 https://youtu.be/aA4jFVeXdxg
